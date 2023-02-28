@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283274494113",
+    "project_id": "poc-demo-7feda",
+    "storage_bucket": "poc-demo-7feda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283274494113:android:9e94b060c08b0b74ffb0e0",
+        "android_client_info": {
+          "package_name": "com.punpoc1.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283274494113-bdll2uc33n3c4gchja95kqcmnfd6kag6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4h5JAh9teKNSOMfMldyKh7HjepQXK60w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283274494113-bdll2uc33n3c4gchja95kqcmnfd6kag6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
